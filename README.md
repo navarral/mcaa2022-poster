@@ -2,7 +2,7 @@
 [2022 MCAA Annual Conference | Lisbon, Portugal, 26-27 March 2022](https://www.mariecuriealumni.eu/conference-2022)
 
 ## Authors
-Albert Navarro-Gallinad* <sup>1</sup>, Maria Christofidou<sup>2</sup>, Nathan Lea<sup>2</sup>, Dipak Kalra<sup>2</sup>, Fabrizio Orlandi<sup>1</sup> and Declan O’Sullivan<sup>1</sup>
+Albert Navarro-Gallinad* <sup>1</sup>, Maria Christofidou<sup>2</sup>, Fabrizio Orlandi<sup>1</sup>, Nathan Lea<sup>2</sup>, Dipak Kalra<sup>2</sup> and Declan O’Sullivan<sup>1</sup>
 
 <sup>1</sup> ADAPT Centre for Digital Content, Trinity College Dublin, Dublin, Ireland
 
